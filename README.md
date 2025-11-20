@@ -140,6 +140,7 @@ After running the notebook, you will get:
 | `data/top_products.csv`  | Top 10 products by revenue               |
 | Visual plots             | Revenue trend, product performance, etc. |
 | Model metrics            | R², RMSE for prediction                  |
+![Revenue trend](revenue_trend.png)
 
 ---
 

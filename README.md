@@ -142,7 +142,7 @@ After running the notebook, you will get:
 | Model metrics            | R², RMSE for prediction                  |
 ![Revenue trend](revenue_trend.png)
 ![Top Products by revenue](top_products_revenue.png)
-![ Model metrics ]("model_metrics.md")
+
 ---
 
 ## 📈 Results Summary
